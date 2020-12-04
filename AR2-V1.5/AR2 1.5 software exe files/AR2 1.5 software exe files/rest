@@ -1,0 +1,24 @@
+(S'##BEGINNING OF PROGRAM##'
+p0
+S'Tab Number 1'
+p1
+S'OFFS J [SP:1] [*]  X) 68.858   Y) 0.0   Z) 733.607   W) -90.0   P) 1.06   R) -89.96   T) 40.0   Speed-25 Ad 15 As 10 Dd 20 Ds 5 $F'
+p2
+S'Move J [*]  X) 68.858   Y) 0.0   Z) 733.607   W) -90.0   P) 1.06   R) -89.96   T) 40.0   Speed-25 Ad 15 As 10 Dd 20 Ds 5 $F'
+p3
+S'OFFS J [SP:1] [*]  X) 68.858   Y) 0.0   Z) 733.607   W) -90.0   P) 1.06   R) -89.96   T) 40.0   Speed-25 Ad 15 As 10 Dd 20 Ds 5 $F'
+p4
+S'OFFS J [SP:2] [*]  X) 68.858   Y) 0.0   Z) 733.607   W) -90.0   P) 1.06   R) -89.96   T) 40.0   Speed-25 Ad 15 As 10 Dd 20 Ds 5 $F'
+p5
+S'OFFS J [SP:1] [*]  X) 68.858   Y) 0.0   Z) 733.607   W) -90.0   P) 1.06   R) -89.96   T) 40.0   Speed-25 Ad 15 As 10 Dd 20 Ds 5 $F'
+p6
+S'OFFS J [SP:1] [*]  X) 68.858   Y) 0.0   Z) 733.607   W) -90.0   P) 1.06   R) -89.96   T) 40.0   Speed-25 Ad 15 As 10 Dd 20 Ds 5 $F'
+p7
+S'Move SP [SP:1] [*]  T) 40.0   Speed-25 Ad 15 As 10 Dd 20 Ds 5 $F'
+p8
+S'OFFS J [SP:1] [*]  X) 68.858   Y) 0.0   Z) 733.607   W) -90.0   P) 1.06   R) -89.96   T) 40.0   Speed-25 Ad 15 As 10 Dd 20 Ds 5 $F'
+p9
+S'OFFS SP [SP:1] offs [*SP:2]  [*]  T) 40.0   Speed-25 Ad 15 As 10 Dd 20 Ds 5 $F'
+p10
+tp11
+.

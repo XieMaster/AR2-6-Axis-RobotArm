@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "AR2.py", line 77, in <module>
+  File "Tkinter.pyo", line 1693, in wm_iconbitmap
+_tkinter.TclError: bitmap "AR2.ico" not defined
